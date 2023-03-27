@@ -1,4 +1,4 @@
-![code wars badge](https://www.codewars.com/users/s-mctoren/badges/large)
+[![code wars badge](https://www.codewars.com/users/s-mctoren/badges/large)](https://www.codewars.com/users/s-mctoren)
 
 ### Hey there ✨😺✨
 
