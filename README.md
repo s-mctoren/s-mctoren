@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 😺
+
+![code wars badge](https://www.codewars.com/users/s-mctoren/badges/large)
 
 <!--
 **s-mctoren/s-mctoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
